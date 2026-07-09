@@ -223,16 +223,50 @@ Esta arquitectura mejora la disponibilidad, pero **no crea instancias nuevas aut
 
 La guía incluye actividades de análisis (balanceo, falla, recuperación) y una propuesta de mejora hacia producción (recuperación automática, instancias privadas, HTTPS, logs/métricas, despliegues sin caída, base de datos altamente disponible). El **reto final** consiste en un documento con diagrama de arquitectura, capturas de instancias/Target Group/ALB, evidencia de respuesta de cada instancia, evidencia de falla simulada y análisis arquitectónico.
 
-### Rúbrica de evaluación
+### Evidencia
 
-| Criterio | Peso |
-|---|---|
-| Arquitectura implementada | 25% |
-| Load Balancer funcional | 20% |
-| Health checks | 15% |
-| Simulación de falla | 15% |
-| Análisis arquitectónico | 15% |
-| Limpieza de recursos | 10% |
+<img width="1722" height="866" alt="image" src="https://github.com/user-attachments/assets/3f22953a-bf67-45bf-b423-8450c9561d85" />
+
+<img width="1741" height="1002" alt="image" src="https://github.com/user-attachments/assets/3a1145aa-51ec-4575-94cd-50befbf93aad" />
+
+<img width="1683" height="976" alt="image" src="https://github.com/user-attachments/assets/60bb3495-e7df-41b2-b700-852b2077c4a2" />
+
+<img width="1828" height="952" alt="image" src="https://github.com/user-attachments/assets/439e1693-a4fc-4478-ab12-fed5ac4115ef" />
+
+<img width="1846" height="477" alt="image" src="https://github.com/user-attachments/assets/27d64935-a2b5-4516-bdf4-9573656b6a0f" />
+
+<img width="1526" height="333" alt="image" src="https://github.com/user-attachments/assets/771af5ea-03d8-434a-95ac-6cb8caf9c530" />
+
+<img width="967" height="713" alt="image" src="https://github.com/user-attachments/assets/51f33614-2596-4c17-8916-fc8d878afaae" />
+
+<img width="852" height="462" alt="image" src="https://github.com/user-attachments/assets/2f510196-03c4-431d-82ba-4101d551abd1" />
+
+<img width="1010" height="482" alt="image" src="https://github.com/user-attachments/assets/96123dd0-0456-432c-bba7-067761a2c2ce" />
+
+<img width="637" height="221" alt="image" src="https://github.com/user-attachments/assets/293c32a3-61ec-418d-b18f-260ef0d2d5f3" />
+
+<img width="652" height="305" alt="image" src="https://github.com/user-attachments/assets/14832337-a01a-4ae1-8330-fecc787860d4" />
+
+<img width="1551" height="543" alt="image" src="https://github.com/user-attachments/assets/c69d6e06-30f5-4a81-b587-5b91b319c085" />
+
+<img width="1536" height="682" alt="image" src="https://github.com/user-attachments/assets/d16842a2-b5e5-4f86-b221-3e2fcacc1705" />
+
+<img width="1031" height="496" alt="image" src="https://github.com/user-attachments/assets/a222ed5b-85e3-4ce8-8768-2017756fdffb" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## 11. Limpieza de recursos
 
